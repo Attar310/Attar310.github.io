@@ -1,14 +1,19 @@
+/*CSS for Personal site */
+/*Saman Attar*/
 
+/* spacing out the navbar */
 .navbar-nav > li{
-  margin-left:40px;
-  margin-right:40px;
+  margin-left:60px;
+  margin-right:60px;
   margin-bottom: 0px;
 }
 .navbar{
 	margin-bottom: 0px;
-
 }
+
+/*englaring the icons*/
 .fa{font-size:150%;}
+
 
 
 .headwrap{
@@ -22,20 +27,21 @@
   z-index: -1;
 }
 
-h1{
-	text-align: center;
-  margin-bottom:0px;
+/*h1 is my name*/
+h1{ 
+text-align: center;
+margin-bottom:5px;
 
 }
+/*holds the quote/email/name*/
 #footerwrap {
-	font-family: 'Lora', serif;
+  font-family: 'Lora', serif;
   padding-top: 0px;
   padding-bottom: 0px;
 
 }
 
 #quote{
-  
   font-family: 'Lora', serif;
   text-align: center;
   font-size:120%;
